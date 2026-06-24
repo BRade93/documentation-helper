@@ -27,6 +27,8 @@ langchain-chroma = "*"
 python-dotenv = "*"
 langchain-tavily = "*"
 langchain-pinecone = "*"
+langchain-ollama = "*"
+vectorstore = "*"
 
 [dev-packages]
 ipykernel = "*"
